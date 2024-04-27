@@ -1,2 +1,2 @@
 # PFD
-I design phase frequency detector (pfd) using verilog and successfully verified it by testbench module.
+I design phase frequency detector (pfd) using verilog HDL and successfully verified it by testbench module.
